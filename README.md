@@ -18,4 +18,4 @@ I'am Mustafa , I have been working as a python developer in my company for more 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Top Langs](http://ionicabizau.github.io/github-profile-languages/?user=SARIKAYA77&theme=tokyonight)
+http://ionicabizau.github.io/github-profile-languages/?user=SARIKAYA77
