@@ -19,4 +19,4 @@ I'am Mustafa , I have been working as a python developer in my company for more 
 </p>
 
 
-(https://github-readme-stats.vercel.app/api ? Username = SARIKAYA77 )] (https://github.com/SARIKAYA77/github-readme-stats)
+(https://github-readme-stats.vercel.app/api ? Username = SARIKAYA77 )]
