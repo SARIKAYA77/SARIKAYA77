@@ -19,4 +19,4 @@ I'am Mustafa , I have been working as a python developer in my company for more 
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&langs_count=8)](https://github.com/SARIKAYA77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77)](https://github.com/SARIKAYA77/github-readme-stats)
