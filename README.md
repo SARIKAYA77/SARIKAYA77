@@ -2,8 +2,6 @@
 I'am Mustafa , I have been working as a python developer in my company for more than 2 years now, we are doing backend developments with python in microservice architecture. I also develop mobile, web development for java and js frameworks.
 
 Contact 📫
-You can find me on:
-<br />  
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mustafa-sarikaya77/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
