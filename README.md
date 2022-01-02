@@ -20,7 +20,4 @@ Contact 📫
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&langs_count=8show_icons=true&theme=radical)](https://github.com/SARIKAYA77/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&theme=tokyonight&langs_count=8)
