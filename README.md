@@ -23,3 +23,4 @@ Contact 📫
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&langs_count=8show_icons=true&theme=radical)](https://github.com/SARIKAYA77/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SARIKAYA77&theme=tokyonight)
